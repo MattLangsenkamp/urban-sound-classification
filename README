@@ -1,0 +1,7 @@
+This project was my submission to the analyticsvidhya.com urban sound classification competition
+
+In order to avoid redoing the preprocessing task everytime I modified the model slightly, I created a 
+PostegreSql database with the processed data.
+
+The data for this project can be found below.
+https://datahack.analyticsvidhya.com/contest/practice-problem-urban-sound-classification/
